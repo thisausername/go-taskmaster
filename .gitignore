@@ -1,0 +1,17 @@
+#忽略IDE的配置文件
+.vscode/
+.idea/
+
+#忽略二进制文件
+bin/
+*.exe
+*.dll
+*.so
+*.a
+
+#忽略环境文件
+.env
+*.local
+
+#忽略测试缓存
+coverage.txt
